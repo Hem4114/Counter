@@ -1,0 +1,50 @@
+h1{
+    font-size: 40px;
+}
+body{
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+}
+#o1{
+    margin: auto;
+    background-color: #2dff08;
+    height: 400px;
+    width: 500px;
+    border-radius: 200px;
+    text-align: center;
+}
+#dis{
+    display: block;
+    margin: auto;
+    background-color: black;
+    height: 130px;
+    width: 300px;
+    border-radius: 90px;
+    color: #2dff08;
+    text-align: center;
+    font-size: 110px;
+}
+p{
+    margin-top: 0;
+}
+#res{
+    display: block;
+    margin-left: 60%;
+    background-color: black;
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+}
+#p2{
+    margin-left: 25%;
+    font-size: 20px;
+    height: 0px;
+}
+#count{
+    display: block;
+    margin: auto;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
